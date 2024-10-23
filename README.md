@@ -12,8 +12,5 @@ Este repositorio contiene el trabajo de tesis titulado "PRONÓSTICO DEL SECTOR E
 
 - **documento_tesis.pdf**: El documento final de la tesis en formato PDF. Este archivo presenta de manera detallada la metodología, resultados y conclusiones del estudio.
 
-## Descripción del Proyecto
-
-
 
 

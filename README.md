@@ -1,6 +1,7 @@
 # Tesis: Aplicación de Modelos SARIMA y Prophet para el Estudio de la Generación Eléctrica en Ecuador
 
 Este repositorio contiene el trabajo de tesis titulado "PRONÓSTICO DEL SECTOR ELÉCTRICO EN ECUADOR CON PROPHET Y SARIMA: EVOLUCIÓN MENSUAL POR TIPO DE FUENTE DESDE 2013 HASTA 2023 ". En esta investigación se analizan y pronostican los datos de generación eléctrica en Ecuador utilizando dos modelos de series temporales: SARIMA y Prophet.
+Maestría en Inteligencia de Negocios y Ciencia de Datos - Universidad de las Américas - Módulo Capstone
 
 ## Estructura del Repositorio
 

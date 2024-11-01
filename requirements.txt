@@ -1,0 +1,13 @@
+numpy
+pandas
+pmdarima
+prophet
+seaborn
+os
+matplotlib
+Scipy
+statsmodels
+sklearn
+
+
+

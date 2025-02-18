@@ -29,7 +29,7 @@ La base de datos fue obtenida de la Agencia de Regulación y Control de Electric
 
 - **visualizaciones/**: Esta carpeta contiene las gráficas generadas a partir del análisis de los datos. Las visualizaciones son fundamentales para comprender las tendencias y patrones en la generación eléctrica.
 
-- **analisis_de_datos.ipynb**: Archivo Jupyter Notebook que documenta el desarrollo de la tesis, incluyendo la implementación de los modelos SARIMA y Prophet, así como el análisis de resultados.
+- **analisis_de_datos.ipynb**: Archivo Jupyter Notebook que documenta el desarrollo de la tesis, incluyendo la implementación de los modelos SARIMA y Prophet, así como el análisis de resultados, el archivo se encuentra comprimido debido a las limitaciones de espacio en Github.
 
 - **documento_tesis.pdf**: El documento final de la tesis en formato PDF. Este archivo presenta de manera detallada la metodología, resultados y conclusiones del estudio.
 

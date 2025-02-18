@@ -1,4 +1,4 @@
-# Tesis: Aplicación de Modelos SARIMA y Prophet para el Estudio de la Generación Eléctrica en Ecuador
+# Tesis: Pronóstico del sector eléctrico en Ecuador: evolución mensual por tipo de fuente desde 2013 hasta 2023.
 
 ## Nombre de la Maestría:
 Maestría en Inteligencia de Negocios y Ciencia de Datos
